@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rainmaker007)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rainmaker007)](https://velog.io/@rainmaker007)
