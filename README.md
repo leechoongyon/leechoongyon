@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <!-- velog -->
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rainmaker007)](https://velog.io/@rainmaker007)
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rainmaker007)](https://velog.io/@rainmaker007) -->
 
 
 <!-- 방문자 카운트 -->
